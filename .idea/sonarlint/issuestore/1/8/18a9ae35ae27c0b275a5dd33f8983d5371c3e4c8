@@ -1,0 +1,17 @@
+
+}
+java:S1874-":Remove this use of "FlinkKafkaConsumer"; it is deprecated.(¸ÊÓì8ª¬£Æç1J$dbc3f9af-f390-408a-a232-195ff5b6b734
+}
+java:S1874-":Remove this use of "FlinkKafkaConsumer"; it is deprecated.(¸ÊÓì8Ğ•Éç1J$951b2fda-5cb8-4e17-8780-4053a64a2e29
+y
+java:S1874."1Remove this use of "addSource"; it is deprecated.(ñöçûÿÿÿÿ8ÜãÄç1J$9cdd3865-772d-4b51-8c7e-849fadedcae0
+o
+java:S19481",Make "connection" transient or serializable.(ÿ›ÅÒ8²Œ†Æç1J$d10c0ae8-94b3-4c36-b845-0a6c50e043da
+{
+java:S19482"3Make "preparedStatement" transient or serializable.(¿ä Óşÿÿÿÿ8³Œ†Æç1J$21670aa7-0206-4e7a-966c-681358ec52d4
+~
+java:S64375"6Revoke and change this password, as it is compromised.(¬‹¾İøÿÿÿÿ8¸Œ†Æç1J$bc118f8c-e243-4c1b-ad3f-d2a3ea7f0576
+Ÿ
+java:S1128"\Remove this unused import 'org.apache.flink.api.common.serialization.DeserializationSchema'.(£Ì‚Õ8éşÉç1J$0384146d-84d1-4597-88f0-8d865e6aa69f
+›
+java:S1128"YRemove this unused import 'org.apache.flink.api.common.serialization.SimpleStringSchema'.(ç‹8êşÉç1J$ac4c1204-0396-4343-8e3b-11761bfdf760

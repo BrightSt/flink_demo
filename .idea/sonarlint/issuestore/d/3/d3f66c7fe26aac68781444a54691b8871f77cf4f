@@ -1,0 +1,15 @@
+
+
+java:S2095'"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(Ô§æÒ8¯˜ôÅç1J$55c170b1-5a15-49ad-bd79-d5f6c1afa9f8
+m	java:S1060"+Replace this use of System.out by a logger.(à˜¢’8Â˜ôÅç1J$0916fe2b-3961-4188-902a-42037c89c17b
+
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.consumer.ConsumerRecord'.(±’–„8Ã˜ôÅç1J$8f241c7f-516b-4af5-bdd5-f3de2e8c2f50
+‘
+java:S1128"NRemove this unused import 'org.apache.kafka.clients.consumer.ConsumerRecords'.(ÖáíÁ8Ã˜ôÅç1J$739d9edb-ba0b-4660-8bb8-9bb9bd3d9ebd
+
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.RecordMetadata'.(éìåê8Ü¾‚Æç1J$cc9d616b-f465-4ee6-9f3f-f1c08cc7e169
+w
+java:S1128
+"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8Ä˜ôÅç1J$209b236c-5cbe-4e76-9f8d-13734dd3d459
+€
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8Ü¾‚Æç1J$c1b7da65-f0ac-4072-aa26-9e188bee850c
